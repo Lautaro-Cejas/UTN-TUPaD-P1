@@ -72,7 +72,7 @@ while True:
     # Sumo el número ingresado al total
     totalAcumulado += numero
 
-# Muestro el total acumulado
+# Imprimo el total acumulado
 print(f"La suma total acumulada es: {totalAcumulado}")
 
 # 5) Crea un juego en el que el usuario deba adivinar un número aleatorio entre 0 y 9. Al final, el
